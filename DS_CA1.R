@@ -63,6 +63,4 @@ t_test <- t.test(quality_data$With_Visual_Aids, quality_data$No_Visual_Aids, pai
 t_test
 
 
-#git config --global user.email "phanindrakumar291998@gmail.com"
-#git config --global user.name "phanindrakumar17"
 
